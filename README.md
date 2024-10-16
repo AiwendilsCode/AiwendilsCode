@@ -4,12 +4,12 @@ I’m a developer passionate about embedded programming, electronics, PCB design
 
 I primarily use C#, but I’m constantly exploring new tools and technologies to expand my knowledge and skill set.
 
-## ⚡ Skills & Interests:
+## 💡 Skills & Interests:
 - 🔧 Embedded Systems | 🖥️ C# Development | 🛠️ PCB Design
 - 🎨 3D Design | 🤖 Machine Learning | 🧩 Problem-Solving
 - 🧠 AI Applications | 🖱️ CAD Modeling for hardware and enclosures
 
-## 💡 Strengths:
+## ⚡ Strengths:
 - 🎯 **Attention to detail** – Precision matters in both hardware and software, and I ensure that every project is fine-tuned to perfection.
 - 🚀 **Fast learner** – I quickly grasp new concepts and technologies, whether it’s a new programming language or a cutting-edge tool.
 - 🔍 **Curiosity** – I’m constantly exploring new ideas and experimenting with emerging technologies.
