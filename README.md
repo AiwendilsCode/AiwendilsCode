@@ -40,3 +40,4 @@ I primarily use C#, but I’m constantly exploring new tools and technologies to
 - 📦 **Smart Device for Receiving Courier Packages:**
     Contracted to create a smart device similar to a DHL box for personal use at home. Utilized the ESP32 microcontroller, allowing interaction with the device via a web interface. Device management was possible over the internet, enhancing convenience and accessibility.
 
+[![AiwendilsCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiwendilsCode&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
