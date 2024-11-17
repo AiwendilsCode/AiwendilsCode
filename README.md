@@ -27,9 +27,9 @@ I primarily use C#, but I’m constantly exploring new tools and technologies to
   - Developed a [**PowerShell tool to add paths to the PATH environment variable**](https://github.com/AiwendilsCode/EnvironmentPathAdd), addressing the Windows GUI limit on the number of paths.
 
 ## 🔨 Currently Working On
-- 🕰️ **Astronomical Clocks:** A clock is designed to display astronomical data like planet positions and moon phases, rather than just the time. An STM32 microcontroller is used for this project to handle the calculations and display.
+- 🏠 **Homie back-end developer:** Back-end developer for a startup aiming to help young adults to find accommodation.
   
-- 📚 **STM32 Libraries:** I am Creating STM32 libraries to abstract register manipulation, simplifying development while preserving performance. The aim is to develop libraries similar to HAL libraries but with a prettier API and less overhead. Additionally, I’m leveraging AI to help automate parts of the library creation process.
+- 🚀 **Als Rocketry club:** Member of a student organization focused on building rockets for competition. My task is to create a battery management system for the rocket's circuitry.
   
 - 🔒 **Personal & Work Projects:** In addition to my public projects, I'm working on private personal projects and job-related development, applying my skills to various real-world tasks.
 
