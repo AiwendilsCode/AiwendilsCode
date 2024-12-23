@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=AiwendilsCode)
+
 I’m a developer passionate about embedded programming, electronics, PCB design, 3D design, and machine learning. I enjoy working on projects that blend hardware and software to create practical solutions. Whether designing intricate circuit boards, building 3D models for enclosures, or developing AI-driven applications, I’m always eager to push the boundaries of innovation.
 
 I primarily use C#, but I’m constantly exploring new tools and technologies to expand my knowledge and skill set.
